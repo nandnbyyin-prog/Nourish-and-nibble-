@@ -6,8 +6,8 @@ window.NN_CONFIG = {
   displayPhone: "083 423 5145",
   whatsappNumber: "27834235145",
   currency: "R",
-  deliveryInfo: "Delivery and collection across South Africa are arranged directly on WhatsApp once you send your order—no account needed.",
-  collectionInfo: "Local collection and delivery options are confirmed with Yin via WhatsApp (083 423 5145) based on your area.",
+  deliveryInfo: "Delivery across South Africa is arranged directly on WhatsApp once you send your order—no account needed. Delivery within Guateng at R75.00 and out of Gauteng at R110.00. Pick up at no charge. ",
+  collectionInfo: "Local collection and delivery options are confirmed with Yin via WhatsApp (083 423 5145) based on your order. " ,
   images: {
     hero: "1000205456.jpg",
     story: "1000205905.jpg",
